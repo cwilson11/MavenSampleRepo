@@ -35,12 +35,6 @@ public class TestMath {
 		
 	}
 	
-	public void testasdasl() {
-		MathOperation mo = new MathOperation();
-		int actual = mo.mul(5, 5);
-		int expected = 25;
-		assertEquals(expected, actual);
-		
-	}
+	
 
 }
